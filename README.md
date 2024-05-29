@@ -81,8 +81,9 @@ draw_dot(f)
 
 ### License
 
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-Este projeto foi inspirado e baseado no trabalho de Andrej Karpathy. Você pode encontrar o repositório original [aqui](https://github.com/karpathy/micrograd).
+This project was inspired and based on the work by Andrej Karpathy. You can find the original repository [aqui](https://github.com/karpathy/micrograd).
+Additionally, I recommend watching the [video on YouTube](https://youtu.be/VMj-3S1tku0?si=21Ke9QS85Y7yA4Cx).
